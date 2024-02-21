@@ -12,9 +12,9 @@ This is my personal portfolio website where I showcase information about myself 
 1. [Tic-tac-toe Game](https://github.com/Chrtnjoroge/Tic-Tac-Toe-game)
    - Description: A simple tic-tac-toe game implemented in Python.
 2. [Calculator](https://github.com/Chrtnjoroge/Calculator)
-   - Description: A basic calculator application developed using Python.
+   - Description: A basic calculator application developed using Java.
 3. [Password Generator](https://github.com/Chrtnjoroge/Password-Generator)
-   - Description: A tool for generating random passwords with customizable settings.
+   - Description: A tool for generating random passwords.
 
 ## Author
 Charity Wangui Njoroge
